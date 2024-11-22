@@ -23,8 +23,7 @@ Key sub-objectives include:
    . Preprocessing Bengali text data for tokenization and sequence modeling.
    
    . Generating new text sequences that mimic the linguistic patterns of the original data.
-   
-   . Evaluating the quality of generated text.
+
 
 Outline
    
